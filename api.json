@@ -1,0 +1,422 @@
+{
+  "category": "ENTITY_SPIRIT",
+
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/nuckelavee",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+
+  "phenomenon": {
+    "id": "nuckelavee",
+    "name": "Nuckelavee",
+    "aliases": [
+      {
+        "name": "Nuckalavee",
+        "language": "English",
+        "region": "Orkney Islands",
+        "note": "Alternative spelling"
+      },
+      {
+        "name": "Devil of the Sea",
+        "language": "English",
+        "region": "Orkney Islands"
+      },
+      {
+        "name": "Sea Devil",
+        "language": "English",
+        "region": "Orkney Islands"
+      }
+    ],
+    "category": "ENTITY_SPIRIT",
+    "subcategory": "Demon/Angel",
+    "tags": [
+      "demon",
+      "sea-spirit",
+      "orcadian",
+      "orkney",
+      "horse",
+      "centaur",
+      "skinless",
+      "plague",
+      "pestilence",
+      "malevolent",
+      "nightmare"
+    ],
+    "status": "traditional-folklore",
+    "description": {
+      "summary": "The most malevolent and feared spirit in Orcadian folklore. A horrific skinless centaur-like demon from the sea, with visible muscles and veins, single eye, and enormous mouth. Its breath wilts crops and kills livestock, it spreads disease and pestilence, and it is only vulnerable to fresh water.",
+      "full": "The Nuckelavee is the most feared and malevolent creature in Orkney Islands folklore, described as a horrific nightmare from the sea. It appears as a skinless centaur-like monstrosity with a human torso fused to a horse body, but with no skin whatsoever - its muscles, sinews, veins, and arteries are completely visible. Black blood flows through yellow veins, and its single enormous eye burns red. Its massive mouth extends nearly across the entire head. The creature's breath is so poisonous it wilts crops, kills livestock, and causes disease in humans. The Nuckelavee emerges from the sea in summer to spread plague, destroy crops, cause droughts, and kill indiscriminately. It is pure malevolence incarnate. However, it has one critical weakness: fresh water. The Nuckelavee cannot cross fresh water streams and burns or dissolves upon contact with it, even avoiding rainfall. In Orcadian tradition, the Nuckelavee is imprisoned in the sea during winter by the Mither o' the Sea (Sea Mother), only emerging in summer when her powers wane. It represents pestilence, famine, and all evils that afflict island communities."
+    },
+    "etymology": {
+      "origin": "Likely from Old Norse 'nykr' (water spirit) + unknown element, adapted through Orcadian Norn language",
+      "meaning": "Uncertain, possibly 'devil of the water' or related to Norse water demon traditions",
+      "first_use": "Documented in Orkney folklore, oral traditions ancient"
+    }
+  },
+
+  "classification": {
+    "taxonomy": {
+      "category": "ENTITY_SPIRIT",
+      "type": "Demon/Malevolent Spirit",
+      "subtype": "Sea demon",
+      "variant": "Orcadian/Shetland"
+    },
+    "related_phenomena": [
+      {
+        "id": "each-uisge",
+        "name": "Each-Uisge",
+        "relationship": "related",
+        "description": "Scottish water horse, less malevolent than Nuckelavee"
+      },
+      {
+        "id": "kelpie",
+        "name": "Kelpie",
+        "relationship": "related",
+        "description": "Scottish water horse, related creature type"
+      },
+      {
+        "id": "trow",
+        "name": "Trow",
+        "relationship": "regional",
+        "description": "Other Orkney/Shetland supernatural beings"
+      },
+      {
+        "id": "pestilence-demon",
+        "name": "Pestilence Spirits",
+        "relationship": "functional",
+        "description": "Disease-spreading supernatural entities worldwide"
+      }
+    ]
+  },
+
+  "characteristics": {
+    "physical": {
+      "appearance": "Horrific skinless centaur-like creature - human torso fused to horse body",
+      "features": [
+        {
+          "feature": "No skin",
+          "description": "Completely skinless - all muscles, veins, sinews visible",
+          "frequency": "always"
+        },
+        {
+          "feature": "Black blood in yellow veins",
+          "description": "Black blood flows visibly through yellow or pale veins and arteries",
+          "frequency": "always"
+        },
+        {
+          "feature": "Single enormous eye",
+          "description": "One huge eye that burns red like fire",
+          "frequency": "always"
+        },
+        {
+          "feature": "Massive mouth",
+          "description": "Mouth extends nearly across entire head, gaping",
+          "frequency": "always"
+        },
+        {
+          "feature": "Human torso",
+          "description": "Human-like upper body fused to horse lower body",
+          "frequency": "always"
+        },
+        {
+          "feature": "Horse body",
+          "description": "Horse-like lower body and legs, also skinless",
+          "frequency": "always"
+        },
+        {
+          "feature": "Enormous size",
+          "description": "Massive, larger than natural horse and human combined",
+          "frequency": "common"
+        },
+        {
+          "feature": "Long arms",
+          "description": "Arms reach nearly to ground, grotesquely long",
+          "frequency": "common"
+        },
+        {
+          "feature": "Stench of decay",
+          "description": "Horrific smell of death and disease",
+          "frequency": "always"
+        }
+      ]
+    },
+    "abilities": [
+      {
+        "ability": "Poisonous breath",
+        "description": "Breath wilts crops, kills livestock, causes disease in humans",
+        "frequency": "always",
+        "evidence_level": "folklore"
+      },
+      {
+        "ability": "Plague spreading",
+        "description": "Causes epidemics in livestock and humans",
+        "frequency": "always",
+        "evidence_level": "folklore"
+      },
+      {
+        "ability": "Drought creation",
+        "description": "Can cause droughts and crop failures",
+        "frequency": "common",
+        "evidence_level": "folklore"
+      },
+      {
+        "ability": "Superhuman strength",
+        "description": "Immense physical power, can destroy structures",
+        "frequency": "always",
+        "evidence_level": "folklore"
+      },
+      {
+        "ability": "Terror inducement",
+        "description": "Appearance alone causes paralyzing fear",
+        "frequency": "always",
+        "evidence_level": "folklore"
+      }
+    ],
+    "behavior": {
+      "activity_period": "summer",
+      "disposition": "purely malevolent",
+      "social_structure": "solitary",
+      "habitat_preference": [
+        "sea",
+        "ocean",
+        "coastline",
+        "comes ashore in summer"
+      ],
+      "seasonal_pattern": "Imprisoned in sea during winter by Mither o' the Sea, emerges in summer",
+      "patterns": [
+        "Emerges from sea when Mither o' the Sea's power wanes",
+        "Roams Orkney spreading disease and destruction",
+        "Causes crop failures and livestock deaths",
+        "Spreads epidemics",
+        "Creates droughts",
+        "Attacks any living thing",
+        "Pure destruction with no apparent motive beyond malevolence",
+        "Retreats from or is destroyed by fresh water"
+      ],
+      "prey": "All life - humans, livestock, crops"
+    },
+    "weaknesses": [
+      {
+        "weakness": "Fresh water",
+        "description": "Cannot cross fresh water streams, burns/dissolves on contact",
+        "severity": "critical"
+      },
+      {
+        "weakness": "Rain",
+        "description": "Avoids rainfall, rain may harm it",
+        "severity": "high"
+      },
+      {
+        "weakness": "Mither o' the Sea",
+        "description": "Sea Mother can imprison it during winter months",
+        "severity": "critical"
+      }
+    ]
+  },
+
+  "distribution": {
+    "range": {
+      "description": "Exclusively Orkney Islands (Orcadian folklore). Most feared spirit in Orkney tradition. Some variants in Shetland.",
+      "continents": ["Europe"],
+      "countries": ["Scotland"],
+      "regions": [
+        "Orkney Islands",
+        "Shetland Islands (variants)"
+      ]
+    },
+    "hotspots": [
+      {
+        "name": "Orkney Islands",
+        "location": {
+          "description": "Northern Isles of Scotland",
+          "country": "Scotland",
+          "region": "Orkney"
+        },
+        "significance": "Primary and almost exclusive Nuckelavee folklore",
+        "notes": "Most feared entity in Orcadian tradition"
+      }
+    ],
+    "temporal": {
+      "first_recorded": {
+        "date": "1800s",
+        "circa": true,
+        "source": "Orcadian oral traditions, documented in 19th century"
+      },
+      "seasonal_patterns": "Winter: imprisoned in sea. Summer: emerges to spread plague and destruction"
+    }
+  },
+
+  "history": {
+    "origins": {
+      "cultural_roots": "Ancient Orcadian folklore, possibly influenced by Norse mythology (Orkney was Norse until 1468). Likely combines Norse water spirit traditions with local pestilence explanations. The Nuckelavee personifies all evils that afflict island communities: disease, crop failure, livestock death, famine.",
+      "earliest_accounts": "Oral traditions ancient; systematically documented by Walter Traill Dennison and others in 1800s.",
+      "folklore_connections": "Related to Norse water demons (nykr, nøkk). Connection to water horse traditions but far more malevolent. Unique to Northern Isles. Reflects Norse-Scots cultural fusion in Orkney."
+    },
+    "timeline": [
+      {
+        "date": "Pre-1468",
+        "event": "Norse Orkney period",
+        "significance": "Possible Norse origins of Nuckelavee tradition",
+        "source": "Historical context"
+      },
+      {
+        "date": "1468-1800s",
+        "event": "Scottish Orkney period",
+        "significance": "Nuckelavee folklore develops in Scots-Norse culture",
+        "source": "Oral tradition"
+      },
+      {
+        "date": "1891",
+        "event": "Walter Traill Dennison documentation",
+        "significance": "Detailed written account in 'The Scottish Antiquary'",
+        "source": "Folklore collection"
+      },
+      {
+        "date": "1903",
+        "event": "Ernest Marwick studies",
+        "significance": "Further Orcadian folklore research",
+        "source": "Academic documentation"
+      }
+    ],
+    "modern_era": "Nuckelavee remains the most iconic Orcadian folkloric creature. Featured in Scottish folklore studies, horror fiction, and fantasy games. Represents ultimate malevolence in Northern Isles tradition."
+  },
+
+  "cultural": {
+    "folklore": {
+      "traditions": [
+        "Seasonal imprisonment by Mither o' the Sea",
+        "Fresh water protection rituals",
+        "Explanations for crop failures and epidemics",
+        "Warning tales about coastal dangers in summer",
+        "Stories of narrow escapes by crossing streams"
+      ],
+      "stories": [
+        "The Tale of Tammas (famous Nuckelavee encounter)",
+        "Stories of crop blights caused by Nuckelavee's breath",
+        "Tales of livestock epidemics during Nuckelavee's emergence",
+        "Mither o' the Sea imprisonment narratives"
+      ],
+      "beliefs": "Nuckelavee represented all evils afflicting island life. Fresh water (streams, rain) offered protection. Mither o' the Sea kept it imprisoned most of the year. Summer emergence explained seasonal diseases and crop failures. Some believed invoking sea mother provided protection."
+    },
+    "indigenous": {
+      "cultures": [
+        "Orcadians"
+      ],
+      "significance": "Central to Orcadian cultural identity and folklore. Most feared supernatural being in Orkney tradition. Embodied existential threats to island communities: famine, disease, death of livestock. Reflected harsh realities of island life and dependence on sea and agriculture.",
+      "sensitivity_note": "Nuckelavee is traditional Orcadian cultural heritage, part of unique Northern Isles folklore.",
+      "respect_guidelines": "Recognize Nuckelavee as meaningful cultural heritage reflecting historical island community fears and experiences. Part of living Orcadian tradition."
+    },
+    "popular_culture": {
+      "literature": [
+        "Walter Traill Dennison's 'The Scottish Antiquary' (1891)",
+        "Ernest Marwick's Orkney folklore collections",
+        "Modern fantasy literature references",
+        "Horror fiction featuring Nuckelavee-inspired creatures"
+      ],
+      "games": [
+        "Appears in various fantasy role-playing games",
+        "Video game monsters inspired by Nuckelavee",
+        "Tabletop RPG creature books"
+      ],
+      "art": [
+        "Victorian folklore illustration",
+        "Modern fantasy art",
+        "Horror art depictions"
+      ],
+      "other": [
+        "Orkney tourism and cultural heritage",
+        "Scottish folklore studies",
+        "Horror and dark fantasy icon"
+      ]
+    },
+    "symbolism": {
+      "themes": [
+        "Ultimate evil and malevolence",
+        "Pestilence and disease",
+        "Famine and crop failure",
+        "Uncontrollable natural disasters",
+        "Sea as source of terror",
+        "Vulnerability of island communities",
+        "Protective power of fresh water",
+        "Seasonal cycles and their dangers"
+      ]
+    }
+  },
+
+  "theories": {
+    "folklore_analysis": [
+      {
+        "name": "Pestilence personification",
+        "description": "Nuckelavee embodies diseases, epidemics, and crop failures that devastated island communities",
+        "proponents": ["Folklore scholars"],
+        "evidence_cited": ["Breath causes disease and withering", "Associated with livestock plagues", "Crop failure explanations"]
+      },
+      {
+        "name": "Norse water demon evolution",
+        "description": "Evolved from Norse nykr/nøkk traditions, intensified in Orkney isolation",
+        "proponents": ["Nordic folklore scholars"],
+        "evidence_cited": ["Orkney's Norse heritage until 1468", "Etymology suggests Norse roots", "Similar to but more extreme than Norse water spirits"]
+      },
+      {
+        "name": "Composite nightmare entity",
+        "description": "Combines multiple fears: sea danger, disease, famine, death",
+        "proponents": ["Cultural anthropologists"],
+        "evidence_cited": ["Multiple destructive powers", "Ultimate embodiment of all fears", "No redeeming qualities unlike other fae"]
+      }
+    ],
+    "origin_theories": [
+      {
+        "name": "Agricultural disaster explanation",
+        "description": "Created to explain periodic crop failures and livestock diseases",
+        "evidence_cited": ["Breath wilts crops", "Causes animal epidemics", "Summer emergence matches disease season"]
+      },
+      {
+        "name": "Cultural fusion",
+        "description": "Norse and Scottish folklore merged in unique Orkney environment",
+        "evidence_cited": ["Orkney's cultural history", "Unique to Northern Isles", "Elements from both traditions"]
+      }
+    ]
+  },
+
+  "sources": [
+    {
+      "id": "dennison-1891",
+      "type": "article",
+      "title": "Orkney Folklore: The Nuckelavee",
+      "authors": ["Walter Traill Dennison"],
+      "publication": "The Scottish Antiquary",
+      "date": "1891"
+    },
+    {
+      "id": "marwick-1975",
+      "type": "book",
+      "title": "The Folklore of Orkney and Shetland",
+      "authors": ["Ernest W. Marwick"],
+      "publication": "B.T. Batsford Ltd",
+      "date": "1975",
+      "isbn": "978-0713406826"
+    },
+    {
+      "id": "briggs-1976",
+      "type": "book",
+      "title": "A Dictionary of Fairies",
+      "authors": ["Katharine Briggs"],
+      "publication": "Penguin Books",
+      "date": "1976",
+      "isbn": "978-0140042337"
+    }
+  ]
+}
