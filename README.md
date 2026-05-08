@@ -1,427 +1,176 @@
 # Nuckelavee
 
-> *"The most hideous of all the denizens of the Scottish waters."*  
-> — Walter Traill Dennison, 1891
+> A skinless horse-and-rider demon of Orkney folklore, described as the most malevolent being in Orcadian tradition. Blamed for droughts, epidemics, and mortasheen, and repelled by fresh water.
 
-[![API Version](https://img.shields.io/badge/api-v1.0.0-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026--01--14-green)]()
-[![Status](https://img.shields.io/badge/status-traditional--folklore-brightgreen)]()
-[![Danger Level](https://img.shields.io/badge/danger-EXTREME-darkred)]()
+[![API Version](https://img.shields.io/badge/api-v1.1.0-blue)]() [![Last Updated](https://img.shields.io/badge/updated-2026-05-07-green)]() [![Sightings](https://img.shields.io/badge/sightings-0-orange)]() ![Status](https://img.shields.io/badge/status-documented-blue)
 
 ---
-
 ## Quick Reference
 
 | Property | Value |
-|----------|-------|
+|---|---|
 | **ID** | `nuckelavee` |
 | **Category** | ENTITY_SPIRIT |
-| **Classification** | Demon/Angel / Sea Devil |
-| **First Recorded** | ~1800s (oral tradition much older) |
-| **Primary Region** | Orkney Islands, Scotland |
-| **Status** | Traditional folklore |
-| **Danger Level** | EXTREME (most malevolent spirit) |
+| **Subcategory** | Skinless sea-demon (Orcadian folklore) |
+| **First recorded** | 1722-01-01 |
+| **Primary range** | Orkney Islands, off the north coast of Scotland |
+| **Status** | documented |
 
 ---
-
-## ⚠️ Content Warning
-
-This article describes a horrific folkloric entity featuring graphic descriptions of:
-- Extreme body horror (skinless anatomy)
-- Disease and pestilence
-- Death and suffering
-
-Nuckelavee is the most terrifying creature in Scottish folklore.
-
----
-
 ## Overview
 
-The Nuckelavee is the most feared and malevolent creature in Orkney Islands folklore, described as a horrific nightmare from the sea. It appears as a **skinless centaur-like monstrosity** with a human torso fused to a horse body, but with no skin whatsoever - its muscles, sinews, veins, and arteries are completely visible.
-
-**Black blood flows through yellow veins**, and its **single enormous eye burns red**. Its massive mouth extends nearly across the entire head. The creature's breath is so poisonous it **wilts crops, kills livestock, and causes disease in humans**.
-
-The Nuckelavee emerges from the sea in summer to spread plague, destroy crops, cause droughts, and kill indiscriminately. It is **pure malevolence incarnate**.
-
-However, it has one critical weakness: **fresh water**. The Nuckelavee cannot cross fresh water streams and burns or dissolves upon contact with it.
-
-In Orcadian tradition, the Nuckelavee is imprisoned in the sea during winter by the **Mither o' the Sea** (Sea Mother), only emerging in summer when her powers wane.
+The Nuckelavee is a horse-like sea demon of Orcadian (Orkney) folklore in northern Scotland, described by 19th-century folklorist Walter Traill Dennison and called by 20th-century folklorist Katharine Briggs 'the nastiest' demon in Scotland's Northern Isles. It is described as a fleshless centaur-like monster: a horse's body with finned legs and a single burning red eye, ridden — or fused at the back — by a human-shaped torso with arms long enough to reach the ground and a head reportedly up to 3 feet (about 90 cm) wide, lolling on the shoulders. Black blood is visible coursing through yellow veins beneath the bare muscle. Its breath is a toxic vapour said to wilt crops, sicken livestock, cause epidemics (the disease mortasheen, now identified with glanders), and bring drought. The Nuckelavee cannot abide fresh, flowing water and can be escaped by crossing a stream. Only the Mither o' the Sea, an ancient Orcadian sea-spirit, can bind the Nuckelavee, and is said to do so during the summer months. Dennison's account is built around the testimony of an Orkney islander named Tammas (Tammie), who escaped by splashing the demon with loch water and crossing a freshwater channel.
 
 ---
+## Names & Aliases
 
-## Etymology & Names
+| Name | Origin | Meaning |
+|---|---|---|
+| Knoggelvi | Orcadian | 'Devil of the Sea' (per Walter Traill Dennison) |
 
-### Primary Name
-- **Nuckelavee** — Likely from Old Norse "nykr" (water spirit) + unknown element, adapted through Orcadian Norn language
+## Etymology
 
-### Alternative Names
-
-| Name | Region | Meaning |
-|------|--------|---------|
-| Nuckalavee | Orkney | Alternative spelling |
-| Devil of the Sea | Orkney | Common epithet |
-| Sea Devil | Orkney | Common epithet |
+- **Origin**: Orcadian Scots / Norn substrate
+- **Meaning**: Per Walter Traill Dennison, derived from Orcadian knoggelvi, 'Devil of the Sea'; possibly also influenced by 'Old Nick' and Latin necare ('to kill')
+- **First use**: Orcadian oral tradition; recorded in print by Walter Traill Dennison in the late 19th century
 
 ---
+## Related Phenomena
 
-## Classification
-
-### Taxonomy
-```
-Category: ENTITY_SPIRIT
-├── Type: Demon/Malevolent Spirit
-├── Subtype: Sea demon
-└── Variant: Orcadian/Shetland
-```
-
-### Related Phenomena
-
-| Phenomenon | Relationship | Description |
-|------------|--------------|-------------|
-| [Each-Uisge](/each-uisge) | Related | Scottish water horse (less malevolent) |
-| [Kelpie](/kelpie) | Related | Scottish water horse |
-| Trow | Regional | Other Orkney/Shetland supernatural beings |
-| Pestilence Demons | Functional | Disease-spreading entities worldwide |
+- [Kelpie](../kelpie/) — _related_: Scottish water-horse spirit; possibly a Celtic-mythology contributor to the Nuckelavee
+- [Each-uisge](../each-uisge/) — _related_: Highland water-horse
+- [Mither o' the Sea](../mither-o-the-sea/) — _counterpart_: Orcadian summer sea-spirit who binds the Nuckelavee; opposed in Orcadian tradition by the winter spirit Teran
 
 ---
-
 ## Physical Description
 
-### Horrific Anatomy
+- **Coloration**: red (eye), yellow (veins), black (blood), raw red (exposed muscle)
+- **Morphology**: A skinless centaur-like composite of horse and human, of unnatural size, with a single eye, finned legs, and toxic breath.
 
-The Nuckelavee is described in stomach-churning detail:
+### Features
 
-**Overall Form:**
-- Centaur-like: human torso fused to horse body
-- **COMPLETELY SKINLESS** — all anatomy visible
-- Enormous size, larger than natural
+| Feature | Description | Frequency |
+|---|---|---|
+| Skinless body | Black blood courses through yellow veins beneath bare muscle and sinew | always |
+| Horse body with finned legs | Equine lower body with fin-like extensions on the legs | always |
+| Single huge red eye | Equine head bears one burning red eye 'like a flame' | always |
+| Fused human torso on the back | A human-shaped torso, head, and arms emerge from the horse's back; the human head is reported as up to 3 feet (90 cm) wide and rolls back and forth | always |
+| Disproportionately long arms | Arms long enough to reach the ground | always |
+| Toxic breath | Pungent vapour from the equine mouth, said to wilt crops and sicken livestock | always |
 
-**Head (Human):**
-- Single **enormous eye** that burns red like fire
-- Massive **mouth extending nearly across entire head**
-- Gaping, terrifying visage
+## Reported Abilities
 
-**Torso (Human):**
-- Grotesquely long arms reaching nearly to ground
-- All muscles, sinews, tendons visible
-- Black blood in yellow/pale veins clearly seen
+| Ability | Description | Frequency | Evidence |
+|---|---|---|---|
+| Toxic breath | Wilts crops, sickens livestock, and is said to spread mortasheen (later identified with glanders) and bring drought and epidemics | always | folklore |
+| Aquatic locomotion | Travels through the sea and along the coast | always | folklore |
+| Aversion to fresh water | Cannot tolerate fresh, flowing water; victims can escape by crossing a stream | always | folklore |
 
-**Body (Horse):**
-- Horse-like lower body and legs
-- Also completely skinless
-- Visible musculature and vascular system
+## Behavior
 
-**Vascular System:**
-- **Black blood flows through yellow veins**
-- All arteries and veins clearly visible
-- Pulsing, grotesque appearance
+- **Activity**: variable
+- **Disposition**: aggressive
+- **Social structure**: solitary
+- **Habitat**: sea, coast, shorelines and beaches of Orkney
 
-**Other Features:**
-- **Stench of decay and death**
-- Breath is poisonous fumes
-- Horrifying to behold
+---
+## Distribution
 
-> "The mouth was large as a whale's mouth. In this horrible mouth were teeth as pointed as those of some ravenous beast."  
-> — Orcadian folklore account
+Orkney Islands, off the north coast of Scotland.
+
+### Hotspots
+
+| Location | Region | Sightings | Peak |
+|---|---|---|---|
+| Stronsay | Orkney, United Kingdom |  |  |
+
+---
+## Historical Timeline
+
+| Date | Event | Significance |
+|---|---|---|
+| 1722-01-01 | Seaweed-burning (kelp industry) begins on Stronsay; Orcadian tradition holds the Nuckelavee retaliated against this practice with epidemics on horses (mortasheen / glanders) | Anchors a specific historical referent in Nuckelavee tradition |
+| 1891-01-01 | Walter Traill Dennison publishes The Orcadian Sketch-Book (and earlier articles) documenting Orcadian folklore, including the Nuckelavee | Brings the Nuckelavee into the printed folklore record |
+| 1959-01-01 | Ernest Marwick documents Orcadian folklore including the Nuckelavee | Major 20th-century compilation of Orkney supernatural traditions |
+
+---
+## Notable Sightings
+
+### Tammas's encounter (per Walter Traill Dennison) ⭐
+> **Date**: 1880-01-01  
+> **Location**: Coastal road by a freshwater stream and loch on an Orkney island, as recorded by Dennison  
+> **Witnesses**: 1 (Orkney islander Tammas (Tammie))  
+Per Dennison's record, an Orkney islander named Tammas met the Nuckelavee on a coastal road at night and provided the only known first-hand description of the creature's full appearance, including the head 'possibly as much as 3 feet in diameter' rolling on the shoulders. Tammas escaped by splashing the monster with loch water and crossing a freshwater channel.
+**Credibility**: low — Foundational source for the modern Nuckelavee description; not a verifiable historical sighting.
+**Sources**: Dennison, W. T., The Orcadian Sketch-Book (1880)
 
 ---
 
-## Abilities & Powers
 
-### Destructive Powers
+## Evidence
 
-| Ability | Description | Effect |
-|---------|-------------|--------|
-| **Poisonous breath** | Exudes toxic fumes | Wilts crops, kills livestock, diseases humans |
-| **Plague spreading** | Causes epidemics | Livestock and human disease outbreaks |
-| **Drought creation** | Affects weather | Crop failures, famine |
-| **Superhuman strength** | Immense physical power | Can destroy buildings, kill effortlessly |
-| **Terror inducement** | Appearance alone | Paralyzing fear in witnesses |
+### Documentary
 
-### Seasonal Pattern
-
-**Winter (Imprisoned):**
-- Mither o' the Sea (Sea Mother) imprisons Nuckelavee in ocean
-- Orkney safe from its depredations
-- Sea Mother's power at peak
-
-**Summer (Emerges):**
-- Sea Mother's power wanes
-- Nuckelavee emerges from sea
-- Roams Orkney spreading destruction
-- Causes all manner of evil
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Dennison's Orcadian folklore record |  | Walter Traill Dennison's late-19th-century records of Orcadian folklore, including the Tammas account. | verified |
+| Marwick, The Folklore of Orkney and Shetland (1975) |  | Ernest Marwick's standard compilation of Orkney and Shetland folklore. | verified |
 
 ---
+## Theories & Explanations
 
-## Behavior & Habitat
+### Paranormal / Cryptozoological
 
-### Activity Patterns
+**Skinless sea demon** _(Orcadian oral tradition)_
 
-- **Season**: Summer (imprisoned in winter)
-- **Disposition**: Purely malevolent, no redeeming qualities
-- **Habitat**: Sea, emerges onto land in summer
-- **Social**: Solitary
+Within Orcadian tradition the Nuckelavee is a real, malevolent sea spirit responsible for blights, epidemics, and droughts.
 
-### Destructive Agenda
+### Skeptical
 
-The Nuckelavee has no apparent motive beyond **pure malevolence**:
+**Etiological figure for disease and disaster** _(Folklorists including Katharine Briggs)_
 
-1. **Spreads disease** — Epidemics in livestock and humans
-2. **Destroys crops** — Breath wilts vegetation
-3. **Causes drought** — Brings famine
-4. **Kills indiscriminately** — Attacks any living thing
-5. **Spreads terror** — Appearance alone terrifies
-6. **No pattern** — Random, unpredictable evil
+The Nuckelavee functions as a folkloric explanation for genuine catastrophes — drought, livestock disease (especially glanders/mortasheen), and crop failure — in a small island society.
 
-Unlike other fae beings with rules or patterns, the Nuckelavee is **chaos and destruction incarnate**.
+**Celtic-Norse cultural composite** _(Wikipedia synthesis of folklore scholarship)_
 
----
+The Nuckelavee likely represents a blending of a Celtic water-horse with a Norse-introduced sea-monster type, reflecting Orkney's bicultural history.
 
-## Weaknesses & Protection
 
-### Critical Weakness: Fresh Water
+## Popular Culture
 
-The Nuckelavee's one vulnerability:
+**Literature**: The Nuckelavee — entry in Katharine Briggs, A Dictionary of Fairies (1976); Numerous appearances in fantasy bestiaries and role-playing-game manuals
 
-| Protection | Mechanism | Effectiveness |
-|------------|-----------|---------------|
-| **Fresh water streams** | Cannot cross | Absolute barrier |
-| **Fresh water contact** | Burns/dissolves creature | Fatal to Nuckelavee |
-| **Rain** | Avoids rainfall | Drives it away |
-| **Wells** | Fresh water source | Safe refuge nearby |
-
-**Survival Strategy:**
-- If pursued by Nuckelavee, run for nearest fresh water stream
-- Cross the stream — Nuckelavee cannot follow
-- Stay near fresh water sources in summer
-- Pray for rain
-
-### The Mither o' the Sea
-
-- **Sea Mother** — Powerful female sea deity
-- Imprisons Nuckelavee during winter months
-- Her power wanes in summer, allowing escape
-- Can be invoked for protection (some accounts)
-- Represents order restraining chaos
+**Games**: Used as a creature type in tabletop role-playing games and fantasy video games
 
 ---
+## Research
 
-## Famous Account: The Tale of Tammas
+### Researchers
 
-The most detailed Nuckelavee encounter, recorded by Walter Traill Dennison (1891):
+| Name | Affiliation | Contribution | Period |
+|---|---|---|---|
+| Walter Traill Dennison | Independent folklorist (Orkney) | Foundational late-19th-century documentation of Orcadian folklore including the Nuckelavee | Late 19th century |
+| Ernest Marwick | Independent folklorist (Orkney) | 20th-century compilation The Folklore of Orkney and Shetland (1975) | Mid–late 20th century |
+| Katharine Briggs | Independent folklorist | Catalogued the Nuckelavee in major reference works on British folklore; called it 'the nastiest' demon of the Northern Isles | Mid–late 20th century |
 
-**The Story:**
-
-1. Tammas riding home at night along coastal path
-2. Encounters horrific skinless creature
-3. Realizes it's the dreaded Nuckelavee
-4. Nuckelavee pursues him
-5. Desperate race for fresh water stream
-6. Tammas reaches stream just ahead
-7. Crosses to safety
-8. Nuckelavee cannot follow, rages at water's edge
-9. Tammas escapes with his life
-10. Never forgets the horror
-
-**Details from Account:**
-- Vivid description of skinless anatomy
-- Black blood in yellow veins
-- Enormous burning eye
-- Massive gaping mouth
-- Stench of decay
-- Tammas's terror
-- Fresh water as absolute protection
-
-This tale established the Nuckelavee's canonical description and behavior.
+Active topic in Scottish folklore studies, particularly within Orkney heritage and the study of Norse–Celtic cultural blending.
 
 ---
+## Sources
 
-## Cultural Significance
+See [SOURCES.md](SOURCES.md) for the complete bibliography.
 
-### Orcadian Tradition
 
-> ⚠️ **Cultural Sensitivity Note**: Nuckelavee is traditional Orcadian cultural heritage, unique to Orkney Islands folklore.
+## How to Report a Sighting
 
-**Significance:**
-- **Most feared supernatural being** in Orkney
-- Embodied all evils afflicting island communities
-- Explained periodic disasters: disease, famine, crop failure
-- Reflected vulnerability of island life
-- Norse-Scots cultural fusion
-
-**Historical Context:**
-- Orkney was Norse until 1468
-- Became Scottish thereafter
-- Nuckelavee likely combines Norse and Scots folklore
-- Unique to Northern Isles environment
-
-### What Nuckelavee Represented
-
-**Existential Threats to Island Communities:**
-- **Pestilence** — Epidemic disease in humans and livestock
-- **Famine** — Crop failures and drought
-- **Sea danger** — Ocean as source of terror
-- **Unpredictable disaster** — Events beyond control
-- **Death itself** — Ultimate evil
-
-Unlike benign or neutral fae, Nuckelavee had **no redeeming qualities** — pure embodiment of suffering and death.
+1. **GitHub Issue**: [Submit Sighting Report](../../issues/new?template=sighting_report.yml)
+2. Provide date, location, witnesses, description, conditions, and any evidence.
 
 ---
-
-## Symbolism & Themes
-
-### Core Themes
-
-**Ultimate Malevolence:**
-- No rules, no mercy, no purpose but destruction
-- Contrasts with other fae who have patterns
-- Represents chaos itself
-
-**Body Horror:**
-- Skinless anatomy = vulnerability exposed
-- Inside-out nature = wrongness, corruption
-- Visible suffering and decay
-
-**Pestilence & Plague:**
-- Breath kills vegetation
-- Spreads disease
-- Causes epidemics
-- Historical reality of island disease outbreaks
-
-**Fresh Water as Salvation:**
-- Purity vs. corruption
-- Land vs. sea
-- Life vs. death
-- Order vs. chaos
-
-**Seasonal Imprisonment:**
-- Cyclical nature of disaster
-- Hope (winter safety) and dread (summer danger)
-- Balance between sea mother and sea devil
-
----
-
-## Theories & Interpretations
-
-### Folklore Analysis
-
-**Pestilence Personification**
-- Embodied diseases devastating island communities
-- Livestock plagues explained
-- Crop failures rationalized
-- Breath = contagion spreading
-
-**Norse-Scots Cultural Fusion**
-- Norse "nykr" water demon roots
-- Adapted and intensified in Orkney
-- Unique to Northern Isles
-- Reflects cultural history (Norse until 1468)
-
-**Composite Nightmare**
-- Combines all island fears
-- Sea danger + disease + famine + death
-- Ultimate "worst case scenario"
-- No escape except fresh water
-
-### Origin Theories
-
-**Agricultural Disaster Explanation**
-- Summer diseases in livestock
-- Crop blights and failures
-- Drought periods
-- Nuckelavee's summer emergence matches disaster season
-
-**Cultural Fusion**
-- Norse water demons (nykr, nøkk)
-- Scottish malevolent spirits
-- Orkney's unique cultural position
-- Isolated island amplification of fears
-
----
-
-## In Popular Culture
-
-**Literature:**
-- Walter Traill Dennison's 1891 account (definitive)
-- Ernest Marwick's Orkney folklore collections
-- Modern horror and fantasy fiction
-- Scottish folklore anthologies
-
-**Games:**
-- Fantasy role-playing games (D&D, Pathfinder)
-- Video games featuring Nuckelavee-inspired monsters
-- Tabletop RPG creature books
-
-**Art:**
-- Victorian folklore illustrations
-- Modern horror and dark fantasy art
-- Body horror depictions
-
-**Influence:**
-- Icon of Scottish folklore horror
-- Template for skinless monsters
-- Ultimate malevolent fae creature
-
----
-
-## How to Report Folklore
-
-If you have Nuckelavee stories or Orcadian folklore:
-
-1. **GitHub Issue**: [Submit Folklore Report](../../issues/new?template=folklore_report.yml)
-2. **Required Information**:
-   - Geographic origin (which island)
-   - How story was passed down
-   - Any unique Orcadian elements
-   - Family or community context
-
-See [Contributing Guidelines](https://github.com/wyrdness/.github/blob/main/CONTRIBUTING.md) for full submission requirements.
-
----
-
-## API Reference
-
-Machine-readable data is available in [`api.json`](api.json).
-
-### Data Access
-
-```javascript
-// Using WyrdnessAPI
-const wyrd = new WyrdnessAPI();
-const nuckelavee = await wyrd.getPhenomenon('nuckelavee');
-```
-
-### Direct Access
-
-```
-Raw JSON: https://raw.githubusercontent.com/wyrdness/nuckelavee/main/api.json
-```
-
----
-
-## Sources & References
-
-See [SOURCES.md](SOURCES.md) for complete bibliography.
-
-### Primary Sources
-
-- Dennison, W.T. (1891). "Orkney Folklore: The Nuckelavee." *The Scottish Antiquary*.
-- Marwick, E.W. (1975). *The Folklore of Orkney and Shetland*. B.T. Batsford Ltd.
-- Briggs, K. (1976). *A Dictionary of Fairies*. Penguin Books.
-
----
-
 ## License
 
-- **Content**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- **Data**: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Data: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
 
 ---
-
-<div align="center">
-
-*Part of the [Wyrdness](https://github.com/wyrdness) Paranormal Archive*
-
-[Report Folklore](../../issues/new?template=folklore_report.yml) • [Suggest Correction](../../issues/new?template=correction.yml) • [Full API](api.json)
-
-</div>
+_Auto-generated from `api.json`. Do not edit by hand — edit `api.json` and run `make repo-docs`._
